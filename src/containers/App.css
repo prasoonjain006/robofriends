@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Gallant;
+    src: url(Gallant-eZ1jp.ttf);
+  }
+
+
+
+h1{
+    
+    font-family: Gallant;
+    font-style: italic;
+    color: rgb(255, 176, 29);
+    font-weight:bold;
+    letter-spacing: 0.2em;
+    
+}
+h1:hover{
+    transform: rotate3d(2, 1, 1, -20deg);
+    
+}
